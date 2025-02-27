@@ -1,3 +1,6 @@
+# Modified by kazu0123 in 2025
+# Based on Original Library (Apache License 2.0)
+
 import time
 from typing import List, Optional, Union, Any, Dict, Tuple, Literal
 
